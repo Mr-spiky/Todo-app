@@ -15,6 +15,10 @@ It allows users to add, delete, and manage daily tasks in an intuitive interface
 - **Styling:** Tailwind CSS (if used)
 - **Deployment:** Vercel
 
+## 📜 License
+This project is licensed under the **MIT License**.
+
+
 ## 📂 Project Setup
 
 Clone the repository:
