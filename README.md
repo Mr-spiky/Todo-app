@@ -8,7 +8,7 @@ It allows users to add, delete, and manage daily tasks in an intuitive interface
 - Mark tasks as complete/incomplete
 - Delete tasks
 - Clean and responsive UI
-- Deployed on [Vercel](https://todo-app.vercel.app)
+- Deployed on [Vercel](https://todo-app-seven-kappa-25.vercel.app/)
 
 ## 🛠️ Tech Stack
 - **Frontend:** React / Vite (or your framework)
